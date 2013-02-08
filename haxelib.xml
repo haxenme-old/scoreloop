@@ -1,0 +1,5 @@
+<project name="scoreloop" url="https://github.com/haxenme/scoreloop" license="MIT">
+	<user name="elyon"/>
+	<description>Extension to provide Scoreloop features</description>
+	<version name="1.0.0"></version>
+</project>
